@@ -6,3 +6,9 @@
 文档查询[pytorch](https://pytorch.org/)
 
 tensorboard请保存后自定义地址打开
+
+datset部分的数据集过大无法上传，可通过百度网盘提取
+
+[链接:](https://pan.baidu.com/s/1gvdZo8xU12fyzgeMR_ywiw?pwd=1234)  提取码: 1234
+
+较大的tensorboard文件没有上传，可自行运行代码后获取
